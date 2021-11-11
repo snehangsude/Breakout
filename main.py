@@ -32,7 +32,6 @@ while True:
     # Co-ordinates to bounce from the bar
     if -225 > ball.ball.ycor() > -240 and ball.ball.distance(bar.bar.pos()) < 38:
         ball.bounce_bar()
-        print(ball.ball.ycor())
 
     # Co-ordinates to bounce from the ceiling
     if ball.ball.ycor() > 270:
