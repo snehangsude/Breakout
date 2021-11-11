@@ -5,7 +5,7 @@
 
 
 # Breakout
-The Breakout Game in Python
+The Breakout Game in Python using the Turtle module
 
 ### Written in python 3.10 
 
