@@ -1,3 +1,9 @@
+[![GitHub license](https://img.shields.io/github/license/snehangsude/Breakout?color=blue&style=flat-square)](https://github.com/snehangsude/Breakout)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snehangsude/Breakout?style=flat-square)
+![Lines of code](https://img.shields.io/tokei/lines/github/snehangsude/Breakout?style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/__xSpace?style=social)
+
+
 # Breakout
 The Breakout Game in Python
 
