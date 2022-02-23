@@ -7,7 +7,7 @@
 # Breakout
 The Breakout Game in Python using the Turtle module
 
-### Written in python 3.10 
+### Written in python 3.10, will work with anything above 3.8
 
 ## Installation on Windows:
 * `git clone https://github.com/snehangsude/Breakout.git`
